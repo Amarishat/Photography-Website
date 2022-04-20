@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+#div {
+    color: aliceblue;
+}
+
+#d1,
+p {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#d2 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.card-body {
+    color: black;
+}
+
+#d7 {
+    margin-top: 200px;
+}
+
+.mb-2 {
+    margin-left: 100px;
+    width: 400px;
+}
+
+.card-body {
+    background-color: black;
+    color: aliceblue;
+}
+
+.text-justify {
+    margin-left: 780px;
+    margin-top: -398px;
+}
